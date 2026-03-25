@@ -1,0 +1,15 @@
+.center {
+  padding-top: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  size: 50px;
+  font-weight: 200;
+}
+
+button {
+  margin: 10px;
+}
